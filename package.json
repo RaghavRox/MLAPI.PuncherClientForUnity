@@ -1,0 +1,7 @@
+{
+    "name": "com.unity.mlapi.puncher",
+    "displayName": "Mlapi.PuncherClientForUnity",
+    "description": "Unity package for mlapi.puncher client",
+    "version": "0.0.1",
+    "unity": "2020.3"
+}
