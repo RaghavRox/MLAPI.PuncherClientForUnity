@@ -1,6 +1,6 @@
 {
     "name": "raghavrox.mlapi.puncher",
-    "rootNamespace": "Mlapi.puncher",
+    "rootNamespace": "Mlapi.Puncher",
     "references": [
     ],
     "includePlatforms": [],
